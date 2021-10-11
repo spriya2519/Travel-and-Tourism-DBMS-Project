@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>CSS BASICS</title>
+    <link rel="stylesheet" href="Part1_master.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Oswald&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <h1>Spectrum Project</h1>
+    <table class="art">
+      <tr>
+        <td id="one"></td>
+        <td id="two"></td>
+        <td id="three"></td>
+        <td id="four"></td>
+        <td id="five"></td>
+      </tr>
+    </table>
+  </body>
+</html>td{
+  height: 300px;
+  width: 150px;
+  border: 6px solid white;
+
+}
+
+h1{
+  text-align: center;
+  font-family: 'Dela Gothic One', cursive;
+font-family: 'Oswald', sans-serif;
+}
+
+
+table{
+  margin: auto;
+
+}
+
+#one{
+  background-color:#9d0208;
+}
+
+#two{
+  background-color:#d00000;
+}
+
+#three{
+  background-color:#dc2f02;
+}
+
+#four{
+  background-color:#e85d04;
+}
+
+#five{
+  background-color:#faa307;
+}

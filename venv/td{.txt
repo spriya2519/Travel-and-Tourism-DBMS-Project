@@ -1,0 +1,38 @@
+td{
+  height: 300px;
+  width: 150px;
+  border: 6px solid white;
+
+}
+
+h1{
+  text-align: center;
+  font-family: 'Dela Gothic One', cursive;
+font-family: 'Oswald', sans-serif;
+}
+
+
+table{
+  margin: auto;
+
+}
+
+#one{
+  background-color:#9d0208;
+}
+
+#two{
+  background-color:#d00000;
+}
+
+#three{
+  background-color:#dc2f02;
+}
+
+#four{
+  background-color:#e85d04;
+}
+
+#five{
+  background-color:#faa307;
+}

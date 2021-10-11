@@ -1,0 +1,13 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"sqlite:///test.db",
+        "prod_uri":"sqlite:///test.db",
+        "fb_url":"https://facebook.com/",
+        "glg_url":"https://google.com",
+        "lknd_url":"https://linkedIn.com",
+        "mail_url":"https://mail.google.com",
+        "inst_url":"https://instagram.com"
+    }
+}
