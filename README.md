@@ -11,7 +11,7 @@ How To Use wrench
 From your command line:
 
 # Clone this repository in Git Bash
-$ git clone 
+$ git clone https://github.com/spriya2519/Travel-and-Tourism-DBMS-Project.git
 
 # Go into the repository
 $ cd DBMS_MiniProject
