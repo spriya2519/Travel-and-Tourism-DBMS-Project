@@ -11,7 +11,7 @@ How To Use wrench
 From your command line:
 
 # Clone this repository in Git Bash
-$ git clone https://github.com/TechieMeSB/DBMS_MiniProject.git
+$ git clone 
 
 # Go into the repository
 $ cd DBMS_MiniProject
