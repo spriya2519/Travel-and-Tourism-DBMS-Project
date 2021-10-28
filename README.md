@@ -7,9 +7,4 @@ $ git clone https://github.com/spriya2519/Travel-and-Tourism-DBMS-Project.git
 
 Go into the repository
 $ cd DBMS_MiniProject Register and Login Page
-
-Packages
-
-Admin Dashboard
-
 Languages used for Implementation scroll wrench Backend : Flask Framework with SqlAlchemy Frontend : HTML,CSS,Javascript,Bootstrap3
